@@ -1,4 +1,4 @@
-# end-to-end-ML-Ops-production-pipeline-
+# End-to-End-ML-Ops-production-pipeline-
 This repository contains an end-to-end Machine Learning project demonstrating best practices for building, training, and managing models in a production-ready MLOps environment. We use a standard regression task (predicting house prices) and leverage MLflow for comprehensive experiment tracking and model lifecycle management.
 
 ✨ Key Features & MLOps Tools
